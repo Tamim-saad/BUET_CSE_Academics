@@ -1,0 +1,12 @@
+input:
+
+3
+7 2 4
+6 * 5
+8 3 1
+
+-----
+Output:
+
+Sorry, it is not solvable.
+Because inversion number is odd

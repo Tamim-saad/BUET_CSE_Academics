@@ -1,0 +1,168 @@
+Processing file: a280.tsp
+Nearest Neighbor Tour Length: 3209.53, Time: 0.0020773 s
+Greedy Heuristic Tour Length: 2960.48, Time: 0.0131658 s
+MST-based Tour Length: 3484.85, Time: 0.0063032 s
+2-opt Tour Length: 2739.3, Time: 11.209 s
+Node Swap Tour Length: 3101.96, Time: 3.41412 s
+Node Insertion Tour Length: 3209.53, Time: 0.0170033 s
+-------------------------------------------
+Processing file: berlin52.tsp
+Nearest Neighbor Tour Length: 8866.87, Time: 0 s      
+Greedy Heuristic Tour Length: 10037, Time: 0 s        
+MST-based Tour Length: 10403.9, Time: 0 s
+2-opt Tour Length: 8116.74, Time: 0.0271182 s
+Node Swap Tour Length: 8722.32, Time: 0.0090015 s     
+Node Insertion Tour Length: 8805.47, Time: 0 s        
+-------------------------------------------
+Processing file: bier127.tsp
+Nearest Neighbor Tour Length: 141211, Time: 0 s       
+Greedy Heuristic Tour Length: 141938, Time: 0.003009 s
+MST-based Tour Length: 155481, Time: 0.001998 s       
+2-opt Tour Length: 124882, Time: 0.920986 s
+Node Swap Tour Length: 139400, Time: 0.454406 s
+Node Insertion Tour Length: 140854, Time: 0.0030839 s   
+-------------------------------------------
+Processing file: ch130.tsp
+Nearest Neighbor Tour Length: 7267.14, Time: 0 s        
+Greedy Heuristic Tour Length: 7736.98, Time: 0.0030097 s
+MST-based Tour Length: 8276.51, Time: 0.0010087 s       
+2-opt Tour Length: 6486.03, Time: 0.770937 s
+Node Swap Tour Length: 6920.46, Time: 0.624479 s
+Node Insertion Tour Length: 7267.14, Time: 0.0030718 s
+-------------------------------------------
+Processing file: ch150.tsp
+Nearest Neighbor Tour Length: 7787.51, Time: 0.0009544 s
+Greedy Heuristic Tour Length: 7861.65, Time: 0.0030125 s
+MST-based Tour Length: 9202.46, Time: 0.0020007 s
+2-opt Tour Length: 6786.39, Time: 1.39788 s
+Node Swap Tour Length: 7622.9, Time: 0.625672 s
+Node Insertion Tour Length: 7787.51, Time: 0.0050069 s
+-------------------------------------------
+Processing file: eil51.tsp
+Nearest Neighbor Tour Length: 574.784, Time: 0 s
+Greedy Heuristic Tour Length: 513.632, Time: 0 s
+MST-based Tour Length: 615.352, Time: 0 s
+2-opt Tour Length: 443.58, Time: 0.0430756 s
+Node Swap Tour Length: 520.268, Time: 0.0306785 s
+Node Insertion Tour Length: 574.784, Time: 0 s
+-------------------------------------------
+Processing file: eil76.tsp
+Nearest Neighbor Tour Length: 648.193, Time: 0 s
+Greedy Heuristic Tour Length: 644.681, Time: 0.0010645 s
+MST-based Tour Length: 749.275, Time: 0 s
+2-opt Tour Length: 575.867, Time: 0.0804337 s
+Node Swap Tour Length: 636.186, Time: 0.0561612 s
+Node Insertion Tour Length: 648.193, Time: 0.0010148 s
+-------------------------------------------
+Processing file: eil101.tsp
+Nearest Neighbor Tour Length: 785.122, Time: 0 s
+Greedy Heuristic Tour Length: 807.64, Time: 0.0019998 s
+MST-based Tour Length: 860.865, Time: 0 s
+2-opt Tour Length: 674.205, Time: 0.276261 s
+Node Swap Tour Length: 728.683, Time: 0.255642 s
+Node Insertion Tour Length: 782.566, Time: 0.002088 s
+-------------------------------------------
+Processing file: kroA100.tsp
+Nearest Neighbor Tour Length: 26743.6, Time: 0.0009994 s
+Greedy Heuristic Tour Length: 27203, Time: 0.0010129 s
+MST-based Tour Length: 30516.9, Time: 0 s
+2-opt Tour Length: 21996.1, Time: 0.352672 s
+Node Swap Tour Length: 23765.2, Time: 0.308816 s
+Node Insertion Tour Length: 26620.9, Time: 0.0020818 s
+-------------------------------------------
+Processing file: kroB100.tsp
+Nearest Neighbor Tour Length: 27750.4, Time: 0 s
+Greedy Heuristic Tour Length: 26588.2, Time: 0.0020002 s
+MST-based Tour Length: 28803.5, Time: 0.0010004 s
+2-opt Tour Length: 23551.7, Time: 0.278565 s
+Node Swap Tour Length: 27339.7, Time: 0.112708 s
+Node Insertion Tour Length: 27750.4, Time: 0.0030808 s
+-------------------------------------------
+Processing file: kroC100.tsp
+Nearest Neighbor Tour Length: 28071.7, Time: 0.0010002 s
+Greedy Heuristic Tour Length: 24880.5, Time: 0.0019991 s
+MST-based Tour Length: 27632.8, Time: 0.0010003 s
+2-opt Tour Length: 22326.6, Time: 0.281947 s
+Node Swap Tour Length: 26518.5, Time: 0.272162 s
+Node Insertion Tour Length: 28040.3, Time: 0.0020106 s
+-------------------------------------------
+Processing file: kroD100.tsp
+Nearest Neighbor Tour Length: 27317.2, Time: 0.001 s
+Greedy Heuristic Tour Length: 24813, Time: 0.0019995 s
+MST-based Tour Length: 28599.1, Time: 0.0020051 s
+2-opt Tour Length: 23586.4, Time: 0.312604 s
+Node Swap Tour Length: 27002.5, Time: 0.11196 s
+Node Insertion Tour Length: 27317.2, Time: 0.0025146 s
+-------------------------------------------
+Processing file: kroE100.tsp
+Nearest Neighbor Tour Length: 27031.1, Time: 0.0010006 s
+Greedy Heuristic Tour Length: 24849.5, Time: 0.0010104 s
+MST-based Tour Length: 30978.6, Time: 0.0019999 s
+2-opt Tour Length: 22797.6, Time: 0.189601 s
+Node Swap Tour Length: 25367.6, Time: 0.460714 s
+Node Insertion Tour Length: 27022.3, Time: 0.0020021 s
+-------------------------------------------
+Processing file: lin105.tsp
+Nearest Neighbor Tour Length: 17057.4, Time: 0.001003 s
+Greedy Heuristic Tour Length: 16771.8, Time: 0.0019984 s
+MST-based Tour Length: 21170.8, Time: 0.0020003 s
+2-opt Tour Length: 15113, Time: 0.282279 s
+Node Swap Tour Length: 15908.2, Time: 0.372664 s
+Node Insertion Tour Length: 17057.4, Time: 0.0020709 s
+-------------------------------------------
+Processing file: lin318.tsp
+Nearest Neighbor Tour Length: 53199.7, Time: 0.0031035 s
+Greedy Heuristic Tour Length: 49910.5, Time: 0.0176346 s
+MST-based Tour Length: 60989.1, Time: 0.0099998 s
+2-opt Tour Length: 44654.5, Time: 44.897 s
+Node Swap Tour Length: 51888.6, Time: 12.5276 s
+Node Insertion Tour Length: 53199.7, Time: 0.0392075 s
+-------------------------------------------
+Processing file: pr76.tsp
+Nearest Neighbor Tour Length: 134689, Time: 0.0010008 s
+Greedy Heuristic Tour Length: 152982, Time: 0.0019968 s
+MST-based Tour Length: 147670, Time: 0.0010172 s
+2-opt Tour Length: 119608, Time: 0.0883254 s
+Node Swap Tour Length: 133534, Time: 0.0615559 s
+Node Insertion Tour Length: 134689, Time: 0.0031452 s
+-------------------------------------------
+Processing file: pr124.tsp
+Nearest Neighbor Tour Length: 70459.7, Time: 0 s
+Greedy Heuristic Tour Length: 68301.8, Time: 0.0019851 s
+MST-based Tour Length: 82762.8, Time: 0.0010171 s
+2-opt Tour Length: 61628.4, Time: 0.60208 s
+Node Swap Tour Length: 67741.1, Time: 0.565542 s
+Node Insertion Tour Length: 70459.7, Time: 0.0054862 s
+-------------------------------------------
+Processing file: pr144.tsp
+Nearest Neighbor Tour Length: 63777.3, Time: 0.0010856 s
+Greedy Heuristic Tour Length: 73522.9, Time: 0.0039927 s
+MST-based Tour Length: 77703.9, Time: 0.0029922 s
+2-opt Tour Length: 61856.5, Time: 0.661904 s
+Node Swap Tour Length: 63424.9, Time: 0.226542 s
+Node Insertion Tour Length: 63579.4, Time: 0.0060108 s
+-------------------------------------------
+Processing file: rat99.tsp
+Nearest Neighbor Tour Length: 1440.45, Time: 0 s
+Greedy Heuristic Tour Length: 1564.2, Time: 0.0039892 s
+MST-based Tour Length: 1671.06, Time: 0.002011 s
+2-opt Tour Length: 1248.6, Time: 0.356512 s
+Node Swap Tour Length: 1419.42, Time: 0.14535 s
+Node Insertion Tour Length: 1440.45, Time: 0.003001 s
+-------------------------------------------
+Processing file: rat195.tsp
+Nearest Neighbor Tour Length: 2705.11, Time: 0.0010033 s
+Greedy Heuristic Tour Length: 2758.04, Time: 0.0089264 s
+MST-based Tour Length: 3265.08, Time: 0.0090733 s
+2-opt Tour Length: 2476.34, Time: 2.71723 s
+Node Swap Tour Length: 2672.03, Time: 1.4038 s
+Node Insertion Tour Length: 2705.11, Time: 0.0100021 s
+-------------------------------------------
+Processing file: st70.tsp
+Nearest Neighbor Tour Length: 796.659, Time: 0 s
+Greedy Heuristic Tour Length: 760.142, Time: 0.0011207 s
+MST-based Tour Length: 861.765, Time: 0.0010027 s
+2-opt Tour Length: 708.502, Time: 0.0996554 s
+Node Swap Tour Length: 751.527, Time: 0.0863171 s
+Node Insertion Tour Length: 796.659, Time: 0.0009987 s
+-------------------------------------------

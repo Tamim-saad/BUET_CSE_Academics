@@ -1,0 +1,16 @@
+
+
+https://stemlounge.com/animated-algorithms-for-the-traveling-salesman-problem/
+
+https://www2.isye.gatech.edu/~mgoetsch/cali/VEHICLE/TSP/TSP003__.HTM
+https://www2.isye.gatech.edu/~mgoetsch/cali/VEHICLE/TSP/TSP011__.HTM
+
+https://tsp-basics.blogspot.com/2017/03/3-opt-move.html
+https://tsp-basics.blogspot.com/2017/03/2-opt-move.html
+
+https://tsp-basics.blogspot.com/2017/03/25-opt.html
+https://tsp-basics.blogspot.com/2017/03/or-opt.html
+
+https://tsp-basics.blogspot.com/2017/03/node-shift.html
+https://tsp-basics.blogspot.com/2017/03/node-swap.html
+
