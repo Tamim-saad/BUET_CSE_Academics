@@ -1,0 +1,159 @@
+\documentclass[20pt]{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath}
+\usepackage[a4paper,margin=2cm]{geometry}
+\usepackage{multirow}
+
+\title{CSE 300: Online Assignment}
+\author{2005005}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+This assignment has been designed to assess the preparation of the students
+in writing scientific articles using \LaTeX. This assignment covers a variety of
+components that are commonly used in scientific manuscripts.
+\subsection{Equations} 
+ Let $a_0$,$a_n$ and $b_n$ are terms of a series. Their definitions are given by Eqn. 1\\
+ \begin{align}
+a_0 &= \frac{1}{\pi} \int_{-\pi}^{\pi} f(x) \,dx \notag \\
+a_n &= \frac{1}{\pi} \int_{-\pi}^{\pi} f(x) \cos(nx) \,dx = \frac{1}{\pi} \int_{-\pi}^{\pi} \frac{x^2}{2} \cos(nx) \,dx \notag \\
+b_n &= \frac{1}{\pi} \int_{-\pi}^{\pi} f(x) \sin(nx) \,dx = \frac{1}{\pi} \int_{-\pi}^{\pi} \frac{x^2}{2} \sin(nx) \,dx
+\end{align}
+\subsection{Tabels}
+We wish to place the Table at the bottom of the page.
+\subsection{Figures}
+We intend to put Figure 1 at the top of a page.
+\pagebreak
+\begin{figure}[h]
+    \centering
+    \begin{tabular}{c c}
+        \includegraphics[scale=0.45,angle=90]{Images/fig.jpg} & \includegraphics[scale=0.45,angle=90]{Images/fig.jpg}  \\
+    \end{tabular}
+    \caption{Side by side same figure}
+    \label{fig:enter-label}
+\end{figure}
+
+\section{Conclusion}
+The major objectives of this assignment are listed below (please do not ignore the font sizes).
+\begin{itemize}
+    \item To assess the ability of the students in preparing
+manuscripts in \LaTeX
+    \item To see if the students have adequately practiced different
+aspects of writing in \LaTeX.\\
+
+
+
+
+
+
+
+
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c||c|c|c|}
+     \hline
+     \multicolumn{4}{|c|}{Item List} \\ 
+     \hline
+     Item Name or Product Name & ALPHA 2 Code & ALPHA 3 Code & Numeric Code\\
+     \hline
+
+
+     \multicolumn{1}{|l||}{
+     \begin{tabular}{c}
+          Item001 \\
+          Item002 \\
+          Item003 \\ 
+          Item004 \\
+     \end{tabular} }&
+     \multicolumn{1}{l}{
+     \begin{tabular}{c}
+          AF \\
+          AL \\
+          AL \\ 
+          DZ \\
+     \end{tabular} }&
+     \multicolumn{1}{|l|}{\begin{tabular}{c}
+
+          AFG \\
+          ALA \\
+          ALB \\ 
+          DZA \\
+     \end{tabular} } &
+
+
+
+     \multicolumn{1}{|l|}{
+     \begin{tabular}{|c|c|c|}
+          \cline{1-1}
+          004 & \multicolumn{2}{c}{\multirow{3}{*}{}} \\
+          \cline{1-1}
+          008 & \multicolumn{2}{c}{} \\
+          \cline{1-1}
+          009 &\multicolumn{2}{c}{} \\
+          \hline
+          012 & 013 & 014 \\
+          \hline
+     \end{tabular} }\\
+
+
+
+     \hline
+     \hline
+     \multicolumn{1}{|l||}{\begin{tabular}{c}
+          Item005 \\
+          Item006 \\
+          Item007 \\ 
+     \end{tabular} }&
+     \multicolumn{1}{l}{\begin{tabular}{c}
+          AS \\
+          AD \\
+          A0 \\ 
+     \end{tabular} }&
+     \multicolumn{1}{|l|}{\begin{tabular}{c}
+          ASM \\
+          AND \\
+          ADO \\ 
+     \end{tabular} } &
+
+
+
+
+     \multicolumn{1}{|l|}{\begin{tabular}{|c|c|c}
+          \cline{1-1}
+          016 & \multicolumn{2}{c}{} \\
+          \cline{1-2}
+          010 & 020 &\multirow{2}{*}{} \\
+          \cline{1-2}
+          024 & 025 & \\
+          \cline{1-2}
+     \end{tabular} }\\
+     \hline
+     \hline
+     \hline
+    \end{tabular}
+
+
+
+
+\end{table}
+
+
+
+
+
+
+
+
+     \item To see if the students can add various basic components (e.g., tables,
+figures, equations) to a LATEX manuscript.
+     \item To see if the students can leverage the available materials (both offline and
+online) to do something which has not explicitly been taught in the class.
+
+\end{itemize}
+
+\end{document}

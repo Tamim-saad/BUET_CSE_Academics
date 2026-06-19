@@ -1,0 +1,64 @@
+\documentclass[14pt]{article}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{multirow}   
+
+\title{CSE 300 Online 1}
+\author{2005005}
+\date{\today}
+\begin{document}
+    \maketitle
+    \tableofcontents
+    \section{Introduction}
+     This is the first online practice on \LaTeX.\\We will do some styling in section 2.
+    \section{Styling} 
+    This is \textcolor{red}{\textbf{bold}}. This is \textcolor{blue}{\textit{italic}} \& so on.
+    \section*{Use of special characters}
+    You can use special characters by preceding with \textbackslash. Another package can be
+    used named as verbatim. Example: \texttt{\~{}!\$\#\textbackslash@*\^}
+    \section{List}
+    There are 3 kinds of list.
+    \begin{enumerate}[label =\roman*.]
+        \item Un-ordered
+        \item Ordered
+        \item Description
+    \end{enumerate}
+    \pagebreak
+    Let’s see an example of lists:
+    \begin{description}
+        \item [CSE 311] Data Communication I
+        \begin{itemize}
+            \item Fourier
+            \item [--] ADC
+        \end{itemize}
+        \item [CSE 305] Computer Architecture
+        \begin{enumerate}
+            \item MIPS
+            \begin{enumerate}
+                \item command
+                \item pipeline
+            \end{enumerate}
+            \item Shared memory
+        \end{enumerate}
+        \item [CSE 309] Compiler 
+    \end{description}
+
+    \section{Table}
+    For understanding the use of multi-row and multi-column command see the
+    table 1
+    \begin{table}[h]
+        \centering
+        \begin{tabular}{|c|c|c|c|}
+        \hline
+         \multirow{2}{*}{Dollar}&Rupee&Taka&\multicolumn{1}{r|}{Euro}\\
+         \cline{2-4}
+         & \multicolumn{2}{c}{\multirow{3}{*}{Dhaka}}&\multicolumn{1}{|r|}{DU}\\
+         \cline{4-4}
+         City&\multicolumn{2}{c}{}&\multicolumn{1}{c|}{BUET}\\
+         \cline{1-1} \cline{4-4}
+         Food&\multicolumn{2}{c}{}&\multicolumn{1}{|c|}{Mosque}\\
+         \hline
+        \end{tabular}
+        \caption{ A table for online test}
+    \end{table}
+\end{document}
