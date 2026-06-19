@@ -1,0 +1,29 @@
+QUICK START GUIDE
+=================
+
+BUILD & RUN:
+-----------
+./run.sh
+
+TEXTURE CONTROLS:
+----------------
+SPACE or T    = Cycle textures: Checkerboard → Texture1 → Texture2 → Checkerboard...
++/=          = Make texture tiles smaller (more frequent)
+-/_          = Make texture tiles larger (less frequent) 
+R            = Reset texture scale to default
+
+CAMERA MOVEMENT:
+---------------
+Arrow Keys   = Move forward/back/left/right
+Page Up/Down = Move up/down
+1,2,3,4,5,6  = Rotate camera (left/right/up/down/tilt)
+
+CAPTURE:
+-------
+0            = Save ray-traced image as 'out.bmp'
+
+TEXTURE MODES:
+-------------
+Mode 0: Black & white checkerboard
+Mode 1: Colorful texture1.png pattern  
+Mode 2: Different texture2.png pattern
